@@ -7,6 +7,11 @@ A professional Biometric Attendance System built with **ESP32**, utilizing an **
 
 This project provides a seamless way to manage attendance using biometric data. It features real-time cloud synchronization, anti-duplicate check (5-minute buffer), and remote user management (deletion) directly from the spreadsheet.
 
+## Project Demo
+Watch Demo Video Here:
+https://drive.google.com/file/d/1FbyMjcJmL_MmPftvYhjBnQZWBWT7zDcd/view?usp=sharing
+
+
 ## ✨ Key Features
 
 * **Biometric Authentication:** Secure and fast fingerprint matching using the AS608/R503 sensor.
